@@ -1,34 +1,3 @@
-📌 Project Title
-Text Classification using Machine Learning
-📖 Project Description
-يهدف هذا المشروع إلى تطبيق تقنيات تنقيب البيانات (Data Mining) و تعلم الآلة (Machine Learning) على البيانات النصية، من خلال بناء نموذج لتصنيف النصوص تلقائيًا إلى فئات محددة.
-تم تنفيذ المشروع باستخدام لغة Python وبيئة Anaconda / Jupyter Notebook، حيث يمر العمل بعدة مراحل أساسية تبدأ من معالجة البيانات النصية وتنتهي بتقييم أداء النموذج.
-⚙️ Project Workflow
-يتكون المشروع من الخطوات التالية:
-تحميل البيانات
-قراءة مجموعة البيانات النصية وتحضيرها للعمل.
-المعالجة المسبقة للنصوص (Text Preprocessing)
-إزالة علامات الترقيم
-تحويل النص إلى حروف صغيرة
-إزالة الكلمات الشائعة (Stop Words)
-تنظيف النص من الرموز غير المهمة
-تمثيل النصوص (Text Representation)
-تحويل النصوص إلى تمثيل رقمي باستخدام تقنيات مثل:
-Bag of Words
-TF-IDF
-تطبيق خوارزميات تعلم الآلة
-استخدام خوارزمية تصنيف مناسبة لبناء النموذج.
-تقييم النموذج
-قياس أداء النموذج باستخدام دقة التصنيف (Accuracy) وبعض المقاييس الأخرى.
-🧠 Technologies & Tools Used
-Python
-Jupyter Notebook
-Anaconda
-Scikit-learn
-Pandas
-NumPy
-NLP Techniques
-🎯 Project Objective
-فهم كيفية التعامل مع البيانات النصية.
-تطبيق خطوات تصنيف النصوص عمليًا.
-اكتساب خبرة في معالجة البيانات وتقييم النماذج.
+Text Classification Project: 
+
+This project demonstrates the application of text classification using machine learning techniques. It includes text preprocessing, feature extraction, model training, and evaluation using Python and Jupyter Notebook. The goal is to automatically classify textual data into predefined categories as part of a data mining task.
